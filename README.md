@@ -7,7 +7,7 @@ The main operation part. Here we have 4 implementations of trading bots.
 
 ## Set up the application ##
 
-Make sure you have input file set in the code that is executed. For comparison use the file that is already in repo. BTC-USD_17.09.2014-14.03.2024.csv
+Make sure you have input file set in the code that is executed. For comparison use the file that is already in repo. BTC-USD_17.09.2014-29.04.2024.csv
 
 ## Run local project ##
 
